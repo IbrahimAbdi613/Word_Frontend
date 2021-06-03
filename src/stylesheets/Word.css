@@ -1,0 +1,11 @@
+.WordContainer{
+    background-color: rgb(255, 255, 227);
+    padding: 1vw;
+    margin: 1%;
+    max-width:40%;
+    border-radius: 0.3vw;
+}
+body{
+    background-color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
